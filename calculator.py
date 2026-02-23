@@ -37,7 +37,7 @@ while True:
     print(multiply(num1,num2))
    elif(opt==4):
     print(divide(num1,num2))
-    next_cal=input(" you want next calculation (yes/no)")
+   next_cal=input(" you want next calculation (yes/no)")
    if next_cal=="no":
     break
  else:
